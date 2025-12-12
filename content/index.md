@@ -1,7 +1,5 @@
 # BTD Docs
 
-Welcome to BTD Docs.
+Welcome to your documentation site.
 
-- Getting Started
-- Streamer.bot scripts
-- OBS overlays
+This is live Markdown → website 🚀
